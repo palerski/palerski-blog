@@ -1,0 +1,1 @@
+## A HUGO static site
