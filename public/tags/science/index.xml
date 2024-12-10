@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on </title>
+    <link>//localhost:1313/tags/science/</link>
+    <description>Recent content in Science on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interception Concept</title>
+      <link>//localhost:1313/posts/interception-concept/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/interception-concept/</guid>
+      <description>&lt;p&gt;Intercepting communications signals, often referred to as signal interception or [[SIGINT]] (Signals Intelligence), involves capturing and analyzing electronic communications or signals.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Passive Interception:&lt;/strong&gt; Listening to signals without interfering with them. This is harder to detect.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active Interception:&lt;/strong&gt; Involves transmitting signals (e.g., jamming or spoofing) to manipulate the target.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frequency Monitoring:&lt;/strong&gt; Scanning the electromagnetic spectrum for specific signals of interest.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic Analysis:&lt;/strong&gt; Examining metadata like source, destination, timing, and frequency without necessarily decrypting content.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

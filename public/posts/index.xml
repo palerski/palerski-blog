@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interception Concept</title>
+      <link>//localhost:1313/posts/interception-concept/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/interception-concept/</guid>
+      <description>&lt;p&gt;Intercepting communications signals, often referred to as signal interception or [[SIGINT]] (Signals Intelligence), involves capturing and analyzing electronic communications or signals.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Passive Interception:&lt;/strong&gt; Listening to signals without interfering with them. This is harder to detect.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Active Interception:&lt;/strong&gt; Involves transmitting signals (e.g., jamming or spoofing) to manipulate the target.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frequency Monitoring:&lt;/strong&gt; Scanning the electromagnetic spectrum for specific signals of interest.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traffic Analysis:&lt;/strong&gt; Examining metadata like source, destination, timing, and frequency without necessarily decrypting content.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>python crash course</title>
+      <link>//localhost:1313/posts/python-crash-course/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/python-crash-course/</guid>
+      <description>&lt;p&gt;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development,&#xA;scientific computing, data analysis, artificial intelligence, and more. Here are some basic concepts and syntax of Python:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Basic Syntax&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Indentation&lt;/strong&gt;: In Python, indentation (spaces or tabs) is used to denote block-level structure. This means that you need&#xA;to indent your code with four spaces to denote a new block.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Variables&lt;/strong&gt;: Variables are named values that can be used in your program. You assign a value to a variable using the&#xA;assignment operator (=).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Types&lt;/strong&gt;: Python has several built-in data types, including:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integers (int): whole numbers&lt;/li&gt;&#xA;&lt;li&gt;Floats (float): decimal numbers&lt;/li&gt;&#xA;&lt;li&gt;Strings (str): sequences of characters&lt;/li&gt;&#xA;&lt;li&gt;Boolean (bool): true or false values&lt;/li&gt;&#xA;&lt;li&gt;Lists (list): ordered collections of values&lt;/li&gt;&#xA;&lt;li&gt;Tuples (tuple): ordered, immutable collections of values&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Basic Operators&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
